@@ -2,7 +2,7 @@
 
 ## About
 
-PathFinder is a command-line webscrapping program written in python - it takes in job title request, then output Australian job data from the job site Indeed.com as a csv file.
+PathFinder is a command-line webscrapping program written in python - it takes in job title request, then output Australian job data from the job site Indeed.com as a csv file. Here's a [demo](https://www.youtube.com/watch?v=H-rMnejA9DQ).
 
 ## Libraries
 
